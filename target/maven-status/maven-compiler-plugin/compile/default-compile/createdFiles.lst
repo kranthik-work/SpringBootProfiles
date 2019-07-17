@@ -1,0 +1,7 @@
+com\kkalletla\SpringBootProfiles\service\Lion.class
+com\kkalletla\SpringBootProfiles\SpringBootProfilesApplication.class
+com\kkalletla\SpringBootProfiles\service\Animal.class
+com\kkalletla\SpringBootProfiles\service\Elephant.class
+com\kkalletla\SpringBootProfiles\config\ProdCustomizer.class
+com\kkalletla\SpringBootProfiles\controller\HelloController.class
+com\kkalletla\SpringBootProfiles\config\DevCustomizer.class
